@@ -1,5 +1,7 @@
 # funnler
 
+http://manuel.land/funnler
+
 Easily generate SQL code to analyze the number of individuals landing on your webpage and leaving it on each step of the funnel.
 
 - Pageviews and events accepted as funnel rules.
